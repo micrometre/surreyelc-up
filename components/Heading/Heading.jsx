@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Heading() {
   return (
 
-      <div className="relative overflow-hidden   bg-white rounded-lg dark:bg-black mt-10 transition duration-300">
+      <div className="relative overflow-hidden   bg-white rounded-lg dark:bg-black mt-14 transition duration-300">
         <div className="mx-auto max-w-7xl">
           <div className="relative z-10 pb-6 sm:pb-16 md:pb-20 lg:w-full lg:max-w-2xl lg:pb-28 xl:pb-32 ">
             <div className="flex justify-center items-center flex-col">
@@ -23,7 +23,7 @@ export default function Heading() {
           </div>
         </div>
         <div className="lg:absolute lg:inset-y-20 lg:right-0 lg:w-1/2
-      flex w-full items-center justify-center 
+      flex w-full itaems-center justify-center  drop-shadow-lg
           md:text-lg
             ">
           <Image
