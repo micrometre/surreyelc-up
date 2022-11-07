@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import ThemeToggler from "../../src/ThemeToggler";
+import ThemeToggler from "../ThemeToggler";
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Features', href: '/#fetures' },
