@@ -6,9 +6,12 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import ThemeToggler from "../ThemeToggler";
 const navigation = [
   { name: 'Home', href: '/' },
-  { name: 'Features', href: '/#fetures' },
-  { name: 'Showcase', href: '/#promo' },
-  { name: 'Contact', href: 'contact' },
+  { name: 'Domestic', href: '/' },
+  { name: 'Commercial', href: '/' },
+  { name: 'Car Charging', href: '/' },
+  { name: 'Car Charging', href: '/' },
+  { name: 'Making Good', href: '/' },
+  { name: 'CCTV and Intruder Alarms', href: '/' },
 ]
 
 export default function NavBar1() {
@@ -18,7 +21,7 @@ export default function NavBar1() {
         backgroundColor:  "#ad1",
         borderRadius: "1px",
         border: "1px solid black",
-        fontSize: "1.1em",
+        fontSize: "1.5rem",
         zIndex: 1030,
         position: "fixed",
         top: 0,

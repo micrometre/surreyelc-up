@@ -11,7 +11,7 @@ export function CopyRight() {
           <div  className="copyright-card">
             <p className="copyright-description">
               Copyright ©{year}
-              <code>croydonwebservices.com</code>
+              <code>Electrical Surrey LTD</code>
             </p>
           </div>
         </div>

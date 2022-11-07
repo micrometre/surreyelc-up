@@ -7,16 +7,16 @@ import {
 
 const features = [
     {
-        name: 'What data we collect',
-        description:
-            'Log Files: We collect information when you visit our web site. This information may include your IP address, device and software characteristics (such as type and operating system), page views, referral URLs, device identifiers or other unique identifiers such as  carrier information. Log files are primarily used for the purpose of enhancing the user experience.',
-        icon: ComputerDesktopIcon,
-    },
-    {
         name: 'Cookies?',
         description:
             'No cookies, AdSense or any other tracking technologies are being used',
         icon: BoltIcon,
+    },
+    {
+        name: 'What data we collect',
+        description:
+            ' We collect information when you visit our web site,  This information may include your IP address, device and software characteristics (such as type and operating system), page views, referral URLs, device identifiers or other unique identifiers such as  carrier information. Log files are primarily used for the purpose of enhancing the user experience.',
+        icon: ComputerDesktopIcon,
     },
 ]
 
@@ -26,7 +26,7 @@ export default function Privacy() {
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div className="lg:text-center">
                     <p className="mt-2 text-lg leading-8 tracking-tight text-gray-900 sm:text-4xl">
-                        At Croydon Web Services we are committed to protecting your privacy. 
+                        At Electrical Surrey we are committed to protecting your privacy. 
                     </p>
                 </div>
 

@@ -48,7 +48,6 @@ export default function CardsDouble() {
                       className="w-4 h-4"
                       xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 24 24"
-                      className="icon-umbrella"
                     >
                       <path
                         className="primary"
@@ -91,7 +90,6 @@ export default function CardsDouble() {
                       className="w-4 h-4"
                       xmlns="http://www.w3.org/2000/svg"
                       viewBox="0 0 24 24"
-                      className="icon-pie-chart"
                     >
                       <path
                         className="primary"

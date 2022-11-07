@@ -1,0 +1,20 @@
+.FooterContainer {
+  text-align: center;
+  padding-top: 2px;
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.3),
+    rgba(0, 0, 0, 0.2)
+  ),
+  url(../../public/34.webp);
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+width: 100%;
+}
+
+.magic {
+    width: 100%;
+  margin: auto;
+  padding: 0.75rem;
+  font-size: 90rem;
+}
