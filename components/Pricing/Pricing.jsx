@@ -42,10 +42,10 @@ export default function Pricing() {
                       <li className="text-gray-500 dark:text-gray-200">
                       Accessibility compliance
                       </li>
+  
                   </ul>
   
               </div>
-  
           </div>
       </div>
   </div>

@@ -1,9 +1,11 @@
 import { motion } from "framer-motion";
-
-
 import Layout from '../components/layout'
 import Heading from '../components/Heading'
 import Moto from "../components/Moto/Moto";
+import Feature from "../components/Feature";
+import Pricing from "../components/Pricing";
+import Hero from "../components/Hero";
+import SeoHead from "../components/SeoHead";
 
 const content = {
   animate: {
@@ -53,6 +55,7 @@ export default function Home() {
               >
                 <Heading />
                 <Moto />
+                <Hero />
               </motion.div>
             </motion.div>
           </motion.section>
