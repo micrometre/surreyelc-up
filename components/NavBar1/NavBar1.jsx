@@ -21,7 +21,7 @@ export default function NavBar1() {
         backgroundColor:  "#ad1",
         borderRadius: "1px",
         border: "1px solid black",
-        fontSize: "1.5rem",
+        fontSize: "1.1rem",
         zIndex: 1030,
         position: "fixed",
         top: 0,
