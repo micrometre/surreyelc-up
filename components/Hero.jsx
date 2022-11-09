@@ -8,7 +8,7 @@ import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 const Hero = ({
   listUser = [
     {
-      name: " Our qualified engineers work to regulation standards in design, installation and niceic certification.",
+      name: " Our qualified engineers work to regulation standards in design, installation and NICEIC Certification.",
       number: "390",
       icon: "/assets/Icon/heroicons_sm-user.svg",
     },

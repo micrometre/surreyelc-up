@@ -29,7 +29,10 @@ export default function Moto() {
         ref={ref}
       >
         <div className="relative overflow-hidden" id="promo">
-          <h1 className="font text-4xl font-bold tracking-tight  text-gray-100 dark:text-gray-100 sm:text-6xl">
+          <h1 className="
+            md:text-4xl
+          
+          font text-4xl font-bold tracking-tight  text-gray-100 dark:text-gray-100 sm:text-6xl">
             Full electrical service for all domestic and commercial properties.
           </h1>
         </div>
