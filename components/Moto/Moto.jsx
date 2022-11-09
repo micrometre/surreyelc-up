@@ -30,7 +30,7 @@ export default function Moto() {
       >
         <div className="relative overflow-hidden" id="promo">
           <h1 className="font text-4xl font-bold tracking-tight  text-gray-100 dark:text-gray-100 sm:text-6xl">
-            Surrey electrical and car charging offer a full electrical service for all domestic and commercial properties.
+            Full electrical service for all domestic and commercial properties.
           </h1>
         </div>
       </motion.div>
