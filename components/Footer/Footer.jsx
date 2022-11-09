@@ -10,7 +10,7 @@ export  default function Footer() {
   return (
     <div className=" bg-gray-300 rounded-lg dark:bg-black">
       <div className="relative flex justify-start md:justify-center md:items-end ">
-        <div className="flex pt-16 md:pt-32 lg:pt-4xl:pt-96   px-4 md:px-6  xl:px-20 flex-col justify-start items-start md:justify-center md:items-center relative z-10">
+        <div className="flex pt-4 md:pt-2 lg:pt-4xl:pt-96   px-4 md:px-6  xl:px-20 flex-col justify-start items-start md:justify-center md:items-center relative z-10">
           <div className="flex  flex-col items-start justify-start xl:justify-center xl:space-x-8 xl:flex-row">
             <div className="mt-12 xl:mt-0 grid grid-cols-1 sm:grid-cols-3 gap-y-12 sm:gap-y-0 w-full md:w-auto sm:gap-x-20 md:gap-x-28 xl:gap-8">
               <div className="sm:w-40 md:w-auto xl:w-72 flex justify-start items-start flex-col space-y-6  text-gray-900 dark:text-white  ">
