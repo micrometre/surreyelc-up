@@ -28,17 +28,9 @@ const Hero = ({
 
   return (
     <div
-      className="max-w-screen-xl mt-2 px-8 xl:px-1 mx-auto"
+      className="max-w-screen-xl mt-0 px-4 xl:px-1 mx-auto"
       id="about"
     >
-      <ScrollAnimationWrapper>
-        <motion.div
-          className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 py-6 sm:py-16"
-          variants={scrollAnimation}>
-          <div className="flex w-full">
-          </div>
-        </motion.div>
-      </ScrollAnimationWrapper>
       <div className="relative w-full flex">
         <ScrollAnimationWrapper
           className="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
