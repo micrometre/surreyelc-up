@@ -6,7 +6,8 @@ import Feature from "../components/Feature";
 import Pricing from "../components/Pricing";
 import Hero from "../components/Hero";
 import SeoHead from "../components/SeoHead";
-
+import Header from "../components/Layout/Header";
+import { Link as LinkScroll } from "react-scroll";
 const content = {
   animate: {
     transition: { staggerChildren: 0.1 },
@@ -56,6 +57,8 @@ export default function Home() {
                 <Heading />
                 <Moto />
                 <Hero />
+                <Feature />
+                <Pricing />
               </motion.div>
             </motion.div>
           </motion.section>
