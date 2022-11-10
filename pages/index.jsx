@@ -57,8 +57,6 @@ export default function Home() {
                 <Heading />
                 <Moto />
                 <Hero />
-                <Feature />
-                <Pricing />
               </motion.div>
             </motion.div>
           </motion.section>
