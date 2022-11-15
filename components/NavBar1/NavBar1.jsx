@@ -10,7 +10,6 @@ const navigation = [
   { name: 'Domestic', href: '/' },
   { name: 'Commercial', href: '/' },
   { name: 'Car Charging', href: '/' },
-  { name: 'Car Charging', href: '/' },
   { name: 'Making Good', href: '/' },
   { name: 'CCTV and Intruder Alarms', href: '/' },
 ]

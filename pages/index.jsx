@@ -5,8 +5,6 @@ import Moto from "../components/Moto/Moto";
 import Feature from "../components/Feature";
 import Pricing from "../components/Pricing";
 import Hero from "../components/Hero";
-import SeoHead from "../components/SeoHead";
-import Header from "../components/Layout/Header";
 import { Link as LinkScroll } from "react-scroll";
 const content = {
   animate: {

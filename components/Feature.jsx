@@ -2,7 +2,7 @@ import Image from "next/image";
 import React, { useMemo } from "react";
 import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
-import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
+import ScrollAnimationWrapper from "./ScrollAnimationWrapper";
 
 const features = [
   "Powerfull online protection.",
@@ -36,7 +36,7 @@ const Feature = () => {
 
         <motion.div className="flex flex-col items-end justify-center ml-auto w-full lg:w-9/12" variants={scrollAnimation}>
           <h3 className="text-3xl lg:text-4xl font-medium leading-relaxed text-black-600">
-            We Provide Many Features You Can Use
+            Full domestic rewires Consumer unit chargers Periodic test and inspections Full remedials Lighting installations of all types Access to river properties
           </h3>
           <p className="my-2 text-black-500">
             You can explore the features that we provide with fun and have their

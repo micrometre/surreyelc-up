@@ -9,7 +9,6 @@ import {
     Breadcrumb,
     Button,
     Card,
-    Carousel,
     Checkbox,
     Dropdown,
     Footer,
@@ -60,6 +59,7 @@ import {
     HiViewBoards,
     HiX,
   } from "react-icons/hi";
+import { CarouselExample } from "./CarouselExample";
   
   export default function Index(){
     return (
@@ -530,30 +530,6 @@ import {
             far, in reverse chronological order.
           </p>
         </Card>
-      </div>
-    );
-  }
-  
-  function CarouselExample(){
-    return (
-      <div className="h-56 sm:h-64 xl:h-80 2xl:h-96">
-        <Carousel>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            alt="..."
-            src="https://flowbite.com/docs/images/carousel/carousel-1.svg"
-          />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            alt="..."
-            src="https://flowbite.com/docs/images/carousel/carousel-2.svg"
-          />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            alt="..."
-            src="https://flowbite.com/docs/images/carousel/carousel-3.svg"
-          />
-        </Carousel>
       </div>
     );
   }
